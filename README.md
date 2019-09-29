@@ -1,2 +1,2 @@
-# lasa
-pixijs alloyTouch gsap
+# 一镜到底 
+pixijs longtaketouch gsap
